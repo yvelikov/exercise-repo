@@ -6,4 +6,4 @@ Test file
 - change 4.1 - using Tortoise; change made in "develop" branch
 - chagne 4.2 - using Tortoise; change made in "master" branch
 - change 5 - using GitBash
- 
+- change 6.1 - using GitBash; change made in "branchName" branch 
